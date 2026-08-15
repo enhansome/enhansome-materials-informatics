@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-13T15:32:05Z",
+            "last_commit": "2026-08-15T05:04:47Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3553
+            "stars": 3557
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:49:40Z",
+            "last_commit": "2026-08-15T09:13:04Z",
             "owner": "aiidateam",
             "repo": "aiida-core",
             "stars": 577
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-13T13:53:37Z",
             "owner": "janosh",
             "repo": "pymatviz",
-            "stars": 326
+            "stars": 327
           }
         },
         {
@@ -605,7 +605,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T08:27:07Z",
+            "last_commit": "2026-08-14T22:40:16Z",
             "owner": "emmo-repo",
             "repo": "EMMO",
             "stars": 90
@@ -619,7 +619,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T20:04:32Z",
+            "last_commit": "2026-08-14T21:35:12Z",
             "owner": "mat3ra",
             "repo": "esse",
             "stars": 7
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:07:41.688Z",
+    "last_updated": "2026-08-15T19:52:38.333Z",
     "original_repository": "tilde-lab/awesome-materials-informatics",
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
     "enhanced_repository": "enhansome/enhansome-materials-informatics",
