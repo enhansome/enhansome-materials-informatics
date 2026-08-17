@@ -14,7 +14,7 @@
             "last_commit": "2026-08-16T05:22:50Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3558
+            "stars": 3559
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-10T09:17:35Z",
+            "last_commit": "2026-08-17T08:40:04Z",
             "owner": "hackingmaterials",
             "repo": "matminer",
             "stars": 612
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T09:13:04Z",
+            "last_commit": "2026-08-17T13:10:59Z",
             "owner": "aiidateam",
             "repo": "aiida-core",
             "stars": 577
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T17:50:49Z",
+            "last_commit": "2026-08-16T22:25:33Z",
             "owner": "cclib",
             "repo": "cclib",
             "stars": 422
@@ -126,7 +126,7 @@
             "last_commit": "2024-08-14T04:59:20Z",
             "owner": "txie-93",
             "repo": "cdvae",
-            "stars": 375
+            "stars": 377
           }
         },
         {
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T04:52:34Z",
+            "last_commit": "2026-08-17T14:47:20Z",
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294
@@ -266,7 +266,7 @@
             "last_commit": "2023-04-23T11:29:22Z",
             "owner": "anthony-wang",
             "repo": "CrabNet",
-            "stars": 131
+            "stars": 132
           }
         },
         {
@@ -375,7 +375,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-07-31T10:30:19Z",
+            "last_commit": "2026-08-17T15:12:01Z",
             "owner": "crest-cassia",
             "repo": "oacis",
             "stars": 55
@@ -605,7 +605,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:40:16Z",
+            "last_commit": "2026-08-17T08:41:59Z",
             "owner": "emmo-repo",
             "repo": "EMMO",
             "stars": 90
@@ -619,7 +619,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T19:53:21Z",
+            "last_commit": "2026-08-17T19:14:10Z",
             "owner": "mat3ra",
             "repo": "esse",
             "stars": 7
@@ -639,7 +639,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T19:16:44Z",
+            "last_commit": "2026-08-17T11:53:47Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
             "stars": 711
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:53:37.684Z",
+    "last_updated": "2026-08-17T19:56:15.829Z",
     "original_repository": "tilde-lab/awesome-materials-informatics",
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
     "enhanced_repository": "enhansome/enhansome-materials-informatics",
