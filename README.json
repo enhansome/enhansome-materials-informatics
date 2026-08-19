@@ -12,10 +12,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-19T11:54:30Z",
+            "last_commit": "2026-08-19T14:06:18Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3563
+            "stars": 3562
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T04:31:44Z",
             "owner": "materialsproject",
             "repo": "pymatgen",
-            "stars": 1944
+            "stars": 1943
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-17T08:40:04Z",
             "owner": "hackingmaterials",
             "repo": "matminer",
-            "stars": 612
+            "stars": 613
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-17T13:10:59Z",
             "owner": "aiidateam",
             "repo": "aiida-core",
-            "stars": 577
+            "stars": 578
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 439713489,
             "language": "Python",
-            "last_commit": "2026-08-18T02:40:42Z",
+            "last_commit": "2026-08-19T15:39:14Z",
             "owner": "Quantum-Accelerators",
             "repo": "quacc",
             "stars": 277
@@ -651,7 +651,7 @@
             "last_commit": "2026-08-17T23:43:07Z",
             "owner": "emmo-repo",
             "repo": "EMMO",
-            "stars": 90
+            "stars": 91
           }
         },
         {
@@ -663,7 +663,7 @@
             "archived": false,
             "id": 63545175,
             "language": "Python",
-            "last_commit": "2026-08-18T17:51:27Z",
+            "last_commit": "2026-08-19T16:40:41Z",
             "owner": "mat3ra",
             "repo": "esse",
             "stars": 7
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:38:44.476Z",
+    "last_updated": "2026-08-19T19:55:54.625Z",
     "original_repository": "tilde-lab/awesome-materials-informatics",
     "original_repository_id": 121643986,
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
