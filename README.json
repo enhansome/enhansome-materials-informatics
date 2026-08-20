@@ -12,7 +12,7 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-19T14:06:18Z",
+            "last_commit": "2026-08-20T15:33:14Z",
             "owner": "rdkit",
             "repo": "rdkit",
             "stars": 3562
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 77234579,
             "language": "Python",
-            "last_commit": "2026-08-17T13:10:59Z",
+            "last_commit": "2026-08-20T12:52:55Z",
             "owner": "aiidateam",
             "repo": "aiida-core",
             "stars": 578
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 15514912,
             "language": "Python",
-            "last_commit": "2026-08-16T22:25:33Z",
+            "last_commit": "2026-08-20T18:45:05Z",
             "owner": "cclib",
             "repo": "cclib",
             "stars": 422
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 39508026,
             "language": "Python",
-            "last_commit": "2026-08-18T23:14:51Z",
+            "last_commit": "2026-08-20T19:07:45Z",
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 439713489,
             "language": "Python",
-            "last_commit": "2026-08-19T15:39:14Z",
+            "last_commit": "2026-08-20T18:09:08Z",
             "owner": "Quantum-Accelerators",
             "repo": "quacc",
             "stars": 277
@@ -255,7 +255,7 @@
             "last_commit": "2024-07-15T21:14:48Z",
             "owner": "yoshida-lab",
             "repo": "XenonPy",
-            "stars": 158
+            "stars": 159
           }
         },
         {
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 283881086,
             "language": "Python",
-            "last_commit": "2025-03-21T14:13:21Z",
+            "last_commit": "2026-08-20T13:07:11Z",
             "owner": "lrcfmd",
             "repo": "ElMD",
             "stars": 38
@@ -648,10 +648,10 @@
             "archived": false,
             "id": 189387204,
             "language": "Python",
-            "last_commit": "2026-08-17T23:43:07Z",
+            "last_commit": "2026-08-20T17:54:38Z",
             "owner": "emmo-repo",
             "repo": "EMMO",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -684,10 +684,10 @@
             "archived": false,
             "id": 651692511,
             "language": null,
-            "last_commit": "2026-08-17T11:53:47Z",
+            "last_commit": "2026-08-20T18:36:59Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
-            "stars": 712
+            "stars": 713
           }
         },
         {
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:55:54.625Z",
+    "last_updated": "2026-08-20T19:59:54.985Z",
     "original_repository": "tilde-lab/awesome-materials-informatics",
     "original_repository_id": 121643986,
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
