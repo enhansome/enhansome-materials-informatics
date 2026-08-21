@@ -12,10 +12,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-20T15:33:14Z",
+            "last_commit": "2026-08-21T02:51:46Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3562
+            "stars": 3560
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T04:31:44Z",
             "owner": "materialsproject",
             "repo": "pymatgen",
-            "stars": 1943
+            "stars": 1942
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-17T08:40:04Z",
             "owner": "hackingmaterials",
             "repo": "matminer",
-            "stars": 613
+            "stars": 612
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 77234579,
             "language": "Python",
-            "last_commit": "2026-08-20T12:52:55Z",
+            "last_commit": "2026-08-21T14:07:42Z",
             "owner": "aiidateam",
             "repo": "aiida-core",
             "stars": 578
@@ -75,7 +75,7 @@
             "last_commit": "2026-05-20T12:57:45Z",
             "owner": "datamol-io",
             "repo": "datamol",
-            "stars": 546
+            "stars": 545
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-10-13T12:29:43Z",
             "owner": "pyiron",
             "repo": "pyiron",
-            "stars": 463
+            "stars": 462
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-11T17:06:26Z",
             "owner": "materialsproject",
             "repo": "fireworks",
-            "stars": 424
+            "stars": 425
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 39508026,
             "language": "Python",
-            "last_commit": "2026-08-20T19:07:45Z",
+            "last_commit": "2026-08-21T13:00:55Z",
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-03T20:10:19Z",
             "owner": "materialsproject",
             "repo": "custodian",
-            "stars": 183
+            "stars": 182
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2025-05-02T11:38:28Z",
             "owner": "ppdebreuck",
             "repo": "modnet",
-            "stars": 112
+            "stars": 111
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2026-07-06T21:58:35Z",
             "owner": "CompRhys",
             "repo": "aviary",
-            "stars": 64
+            "stars": 63
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2024-06-10T08:57:04Z",
             "owner": "TRI-AMDD",
             "repo": "piro",
-            "stars": 24
+            "stars": 23
           }
         },
         {
@@ -648,7 +648,7 @@
             "archived": false,
             "id": 189387204,
             "language": "Python",
-            "last_commit": "2026-08-20T17:54:38Z",
+            "last_commit": "2026-08-21T06:45:11Z",
             "owner": "emmo-repo",
             "repo": "EMMO",
             "stars": 92
@@ -663,7 +663,7 @@
             "archived": false,
             "id": 63545175,
             "language": "Python",
-            "last_commit": "2026-08-19T16:40:41Z",
+            "last_commit": "2026-08-20T22:45:03Z",
             "owner": "mat3ra",
             "repo": "esse",
             "stars": 7
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:59:54.985Z",
+    "last_updated": "2026-08-21T19:53:30.988Z",
     "original_repository": "tilde-lab/awesome-materials-informatics",
     "original_repository_id": 121643986,
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
