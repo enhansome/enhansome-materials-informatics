@@ -12,10 +12,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-21T02:51:46Z",
+            "last_commit": "2026-08-22T06:25:26Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3560
+            "stars": 3561
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T04:31:44Z",
             "owner": "materialsproject",
             "repo": "pymatgen",
-            "stars": 1942
+            "stars": 1943
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 39508026,
             "language": "Python",
-            "last_commit": "2026-08-21T13:00:55Z",
+            "last_commit": "2026-08-22T14:38:13Z",
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-20T18:09:08Z",
             "owner": "Quantum-Accelerators",
             "repo": "quacc",
-            "stars": 277
+            "stars": 278
           }
         },
         {
@@ -663,7 +663,7 @@
             "archived": false,
             "id": 63545175,
             "language": "Python",
-            "last_commit": "2026-08-20T22:45:03Z",
+            "last_commit": "2026-08-21T20:54:42Z",
             "owner": "mat3ra",
             "repo": "esse",
             "stars": 7
@@ -684,7 +684,7 @@
             "archived": false,
             "id": 651692511,
             "language": null,
-            "last_commit": "2026-08-20T18:36:59Z",
+            "last_commit": "2026-08-22T03:39:25Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
             "stars": 713
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:53:30.988Z",
+    "last_updated": "2026-08-22T19:53:06.617Z",
     "original_repository": "tilde-lab/awesome-materials-informatics",
     "original_repository_id": 121643986,
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
