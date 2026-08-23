@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T14:07:42Z",
             "owner": "aiidateam",
             "repo": "aiida-core",
-            "stars": 578
+            "stars": 579
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 340898532,
             "language": "Python",
-            "last_commit": "2026-08-18T11:55:13Z",
+            "last_commit": "2026-08-23T15:22:44Z",
             "owner": "janosh",
             "repo": "pymatviz",
             "stars": 328
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 39508026,
             "language": "Python",
-            "last_commit": "2026-08-22T14:38:13Z",
+            "last_commit": "2026-08-23T16:50:48Z",
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294
@@ -651,7 +651,7 @@
             "last_commit": "2026-08-21T06:45:11Z",
             "owner": "emmo-repo",
             "repo": "EMMO",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -687,7 +687,7 @@
             "last_commit": "2026-08-22T03:39:25Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
-            "stars": 713
+            "stars": 716
           }
         },
         {
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:53:06.617Z",
+    "last_updated": "2026-08-23T19:52:43.062Z",
     "original_repository": "tilde-lab/awesome-materials-informatics",
     "original_repository_id": 121643986,
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
