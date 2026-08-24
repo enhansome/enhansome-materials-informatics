@@ -12,10 +12,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-22T06:25:26Z",
+            "last_commit": "2026-08-24T09:44:50Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3561
+            "stars": 3562
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T04:31:44Z",
             "owner": "materialsproject",
             "repo": "pymatgen",
-            "stars": 1943
+            "stars": 1944
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 43091756,
             "language": "HTML",
-            "last_commit": "2026-08-17T08:40:04Z",
+            "last_commit": "2026-08-24T08:44:26Z",
             "owner": "hackingmaterials",
             "repo": "matminer",
-            "stars": 612
+            "stars": 613
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 39508026,
             "language": "Python",
-            "last_commit": "2026-08-23T16:50:48Z",
+            "last_commit": "2026-08-24T13:47:13Z",
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 439713489,
             "language": "Python",
-            "last_commit": "2026-08-20T18:09:08Z",
+            "last_commit": "2026-08-24T01:57:22Z",
             "owner": "Quantum-Accelerators",
             "repo": "quacc",
             "stars": 278
@@ -210,7 +210,7 @@
             "last_commit": "2024-08-20T17:26:52Z",
             "owner": "materialsproject",
             "repo": "matbench",
-            "stars": 214
+            "stars": 215
           }
         },
         {
@@ -663,7 +663,7 @@
             "archived": false,
             "id": 63545175,
             "language": "Python",
-            "last_commit": "2026-08-21T20:54:42Z",
+            "last_commit": "2026-08-24T06:20:54Z",
             "owner": "mat3ra",
             "repo": "esse",
             "stars": 7
@@ -687,7 +687,7 @@
             "last_commit": "2026-08-22T03:39:25Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
-            "stars": 716
+            "stars": 717
           }
         },
         {
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:52:43.062Z",
+    "last_updated": "2026-08-24T14:22:52.678Z",
     "original_repository": "tilde-lab/awesome-materials-informatics",
     "original_repository_id": 121643986,
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
