@@ -162,7 +162,7 @@
             "archived": false,
             "id": 39508026,
             "language": "Python",
-            "last_commit": "2026-08-24T13:47:13Z",
+            "last_commit": "2026-08-24T18:34:28Z",
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:52.678Z",
+    "last_updated": "2026-08-24T19:59:37.488Z",
     "original_repository": "tilde-lab/awesome-materials-informatics",
     "original_repository_id": 121643986,
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
