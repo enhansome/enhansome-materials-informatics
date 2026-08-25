@@ -162,7 +162,7 @@
             "archived": false,
             "id": 39508026,
             "language": "Python",
-            "last_commit": "2026-08-24T18:34:28Z",
+            "last_commit": "2026-08-25T04:29:46Z",
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 439713489,
             "language": "Python",
-            "last_commit": "2026-08-24T01:57:22Z",
+            "last_commit": "2026-08-24T21:35:48Z",
             "owner": "Quantum-Accelerators",
             "repo": "quacc",
             "stars": 278
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:59:37.488Z",
+    "last_updated": "2026-08-25T06:14:48.833Z",
     "original_repository": "tilde-lab/awesome-materials-informatics",
     "original_repository_id": 121643986,
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
