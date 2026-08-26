@@ -12,10 +12,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-25T10:13:12Z",
+            "last_commit": "2026-08-26T14:35:13Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3563
+            "stars": 3565
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 77234579,
             "language": "Python",
-            "last_commit": "2026-08-25T14:45:21Z",
+            "last_commit": "2026-08-26T19:56:49Z",
             "owner": "aiidateam",
             "repo": "aiida-core",
             "stars": 579
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 15514912,
             "language": "Python",
-            "last_commit": "2026-08-20T18:45:05Z",
+            "last_commit": "2026-08-26T20:47:18Z",
             "owner": "cclib",
             "repo": "cclib",
             "stars": 422
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 39508026,
             "language": "Python",
-            "last_commit": "2026-08-25T17:37:42Z",
+            "last_commit": "2026-08-26T20:50:36Z",
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294
@@ -663,7 +663,7 @@
             "archived": false,
             "id": 63545175,
             "language": "Python",
-            "last_commit": "2026-08-25T17:51:29Z",
+            "last_commit": "2026-08-25T21:42:29Z",
             "owner": "mat3ra",
             "repo": "esse",
             "stars": 7
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:59:34.311Z",
+    "last_updated": "2026-08-26T22:29:35.814Z",
     "original_repository": "tilde-lab/awesome-materials-informatics",
     "original_repository_id": 121643986,
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
