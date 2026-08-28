@@ -12,10 +12,10 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-27T03:32:26Z",
+            "last_commit": "2026-08-28T02:56:45Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3565
+            "stars": 3566
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 15514912,
             "language": "Python",
-            "last_commit": "2026-08-26T20:47:18Z",
+            "last_commit": "2026-08-27T19:40:13Z",
             "owner": "cclib",
             "repo": "cclib",
             "stars": 423
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-23T15:22:44Z",
             "owner": "janosh",
             "repo": "pymatviz",
-            "stars": 329
+            "stars": 330
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 39508026,
             "language": "Python",
-            "last_commit": "2026-08-27T07:50:54Z",
+            "last_commit": "2026-08-28T00:45:17Z",
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294
@@ -357,7 +357,7 @@
             "archived": false,
             "id": 136234321,
             "language": "Python",
-            "last_commit": "2026-08-09T11:32:42Z",
+            "last_commit": "2026-08-27T17:12:17Z",
             "owner": "Materials-Consortia",
             "repo": "optimade-python-tools",
             "stars": 91
@@ -648,10 +648,10 @@
             "archived": false,
             "id": 189387204,
             "language": "Python",
-            "last_commit": "2026-08-27T11:02:05Z",
+            "last_commit": "2026-08-27T14:03:22Z",
             "owner": "emmo-repo",
             "repo": "EMMO",
-            "stars": 93
+            "stars": 94
           }
         },
         {
@@ -684,7 +684,7 @@
             "archived": false,
             "id": 651692511,
             "language": null,
-            "last_commit": "2026-08-22T03:39:25Z",
+            "last_commit": "2026-08-28T02:08:26Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
             "stars": 717
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:53.754Z",
+    "last_updated": "2026-08-28T03:51:27.363Z",
     "original_repository_info": {
       "archived": false,
       "id": 121643986,
