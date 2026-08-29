@@ -17,7 +17,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Software and products
 
-* [RDKit](https://github.com/rdkit/rdkit) ⭐ 3,570 | 🐛 65 | 🌐 HTML | 📅 2026-08-28 - A collection of cheminformatics and machine-learning software written in **C++** and **Python**. [![Github Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social)](https://github.com/rdkit/rdkit) ⭐ 3,570 | 🐛 65 | 🌐 HTML | 📅 2026-08-28
+* [RDKit](https://github.com/rdkit/rdkit) ⭐ 3,570 | 🐛 66 | 🌐 HTML | 📅 2026-08-28 - A collection of cheminformatics and machine-learning software written in **C++** and **Python**. [![Github Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social)](https://github.com/rdkit/rdkit) ⭐ 3,570 | 🐛 66 | 🌐 HTML | 📅 2026-08-28
 * [Pymatgen](https://pymatgen.org) - A robust, open-source **Python** library for materials analysis. [![Github Stars](https://img.shields.io/github/stars/materialsproject/pymatgen?style=social)](https://github.com/materialsproject/pymatgen) ⭐ 1,946 | 🐛 131 | 🌐 Python | 📅 2026-08-27
 * [matminer](https://github.com/hackingmaterials/matminer) ⭐ 613 | 🐛 34 | 🌐 HTML | 📅 2026-08-24 - A library for data mining in materials science (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/matminer?style=social)](https://github.com/hackingmaterials/matminer) ⭐ 613 | 🐛 34 | 🌐 HTML | 📅 2026-08-24
 * [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**). [![Github Stars](https://img.shields.io/github/stars/aiidateam/aiida-core?style=social)](https://github.com/aiidateam/aiida-core) ⭐ 579 | 🐛 674 | 🌐 Python | 📅 2026-08-27

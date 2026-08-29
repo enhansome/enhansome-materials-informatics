@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official sources for the RDKit library",
+            "homepage": null,
             "id": 10009991,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T07:20:52Z",
+            "open_issues": 66,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3570
+            "stars": 3570,
+            "topics": [
+              "c-plus-plus",
+              "cheminformatics",
+              "python",
+              "rdkit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -26,12 +36,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Materials Genomics (pymatgen) is a robust materials analysis code that defines classes for structures and molecules with support for many electronic structure codes. It powers the Materials Project.",
+            "homepage": "https://pymatgen.org",
             "id": 2629302,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T08:56:46Z",
+            "open_issues": 131,
             "owner": "materialsproject",
             "repo": "pymatgen",
-            "stars": 1946
+            "stars": 1946,
+            "topics": [
+              "materials",
+              "materials-informatics",
+              "materials-science",
+              "python",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -42,12 +63,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data mining for materials science",
+            "homepage": "https://hackingmaterials.github.io/matminer/",
             "id": 43091756,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T08:44:26Z",
+            "open_issues": 34,
             "owner": "hackingmaterials",
             "repo": "matminer",
-            "stars": 613
+            "stars": 613,
+            "topics": [
+              "condensed-matter",
+              "data-mining",
+              "machine-learning",
+              "materials-science",
+              "matminer"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -58,12 +90,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repository for the AiiDA code",
+            "homepage": "https://aiida-core.readthedocs.io",
             "id": 77234579,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T10:18:30Z",
+            "open_issues": 674,
             "owner": "aiidateam",
             "repo": "aiida-core",
-            "stars": 579
+            "stars": 579,
+            "topics": [
+              "aiida",
+              "computational-science",
+              "data-provenance",
+              "database",
+              "provenance",
+              "scheduler",
+              "ssh",
+              "workflow",
+              "workflow-engine",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -74,12 +122,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Molecular Processing Made Easy.",
+            "homepage": "https://docs.datamol.io",
             "id": 341603042,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-20T12:57:45Z",
+            "open_issues": 13,
             "owner": "datamol-io",
             "repo": "datamol",
-            "stars": 546
+            "stars": 546,
+            "topics": [
+              "cheminformatics",
+              "drug-design",
+              "drug-discovery",
+              "medicinal-chemistry",
+              "molecule",
+              "molecules",
+              "python",
+              "rdkit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -90,12 +152,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pyiron - an integrated development environment (IDE) for computational materials science.",
+            "homepage": "http://pyiron.org",
             "id": 126337574,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-13T12:29:43Z",
+            "open_issues": 5,
             "owner": "pyiron",
             "repo": "pyiron",
-            "stars": 462
+            "stars": 462,
+            "topics": [
+              "ab-initio",
+              "ase",
+              "development-environment",
+              "dft",
+              "hdf5",
+              "ide",
+              "lammps",
+              "molecular-dynamics",
+              "pyiron",
+              "python",
+              "simulation",
+              "vasp"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -106,12 +186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Fireworks Workflow Management Repo.",
+            "homepage": "https://materialsproject.github.io/fireworks",
             "id": 7507548,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T22:20:39Z",
+            "open_issues": 74,
             "owner": "materialsproject",
             "repo": "fireworks",
-            "stars": 425
+            "stars": 425,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -122,12 +207,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parsers and algorithms for computational chemistry logfiles",
+            "homepage": "https://cclib.github.io/",
             "id": 15514912,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T16:13:20Z",
+            "open_issues": 189,
             "owner": "cclib",
             "repo": "cclib",
-            "stars": 423
+            "stars": 423,
+            "topics": [
+              "computational-chemistry",
+              "python",
+              "quantum-chemistry"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -138,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An SE(3)-invariant autoencoder for generating the periodic structure of materials [ICLR 2022]",
+            "homepage": null,
             "id": 436740032,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-14T04:59:20Z",
+            "open_issues": 50,
             "owner": "txie-93",
             "repo": "cdvae",
-            "stars": 378
+            "stars": 378,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -154,12 +253,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit for visualizations in materials informatics.",
+            "homepage": "https://janosh.github.io/pymatviz",
             "id": 340898532,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T15:22:44Z",
+            "open_issues": 0,
             "owner": "janosh",
             "repo": "pymatviz",
-            "stars": 330
+            "stars": 330,
+            "topics": [
+              "data-visualization",
+              "machine-learning",
+              "materials-informatics",
+              "materials-science",
+              "matplotlib",
+              "plotly",
+              "plots",
+              "python",
+              "uncertainty",
+              "uncertainty-calibration"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -170,12 +285,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Computational Crystallography Toolbox",
+            "homepage": "https://cci.lbl.gov/docs/cctbx ",
             "id": 39508026,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:54:57Z",
+            "open_issues": 164,
             "owner": "cctbx",
             "repo": "cctbx_project",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "cctbx",
+              "cryo-em",
+              "crystallography",
+              "phenix"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -186,12 +311,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "quacc is a flexible platform for computational materials science and quantum chemistry that is built for the big data era.",
+            "homepage": "https://quantum-accelerators.github.io/quacc/",
             "id": 439713489,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-29T00:45:20Z",
+            "open_issues": 18,
             "owner": "Quantum-Accelerators",
             "repo": "quacc",
-            "stars": 278
+            "stars": 278,
+            "topics": [
+              "chemistry",
+              "computational-materials-science",
+              "database",
+              "dft",
+              "high-throughput",
+              "hpc",
+              "python",
+              "quantum-chemistry",
+              "quantum-mechanics",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -202,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "atomate is a powerful software for computational materials science and contains pre-built workflows.",
+            "homepage": "https://hackingmaterials.github.io/atomate",
             "id": 43023379,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-18T19:48:05Z",
+            "open_issues": 49,
             "owner": "hackingmaterials",
             "repo": "atomate",
-            "stars": 263
+            "stars": 263,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -218,12 +364,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Matbench: Benchmarks for materials science property prediction",
+            "homepage": "https://matbench.materialsproject.org",
             "id": 341773226,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-20T17:26:52Z",
+            "open_issues": 57,
             "owner": "materialsproject",
             "repo": "matbench",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "benchmark",
+              "chemistry",
+              "condensed-matter",
+              "data-science",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "materials-science",
+              "physics"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -234,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crystal Toolkit is a framework for building web apps for materials science and is currently powering the new Materials Project website.",
+            "homepage": "https://docs.crystaltoolkit.org",
             "id": 98350025,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:17:23Z",
+            "open_issues": 74,
             "owner": "materialsproject",
             "repo": "crystaltoolkit",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -250,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, robust and flexible just-in-time job management framework in Python.",
+            "homepage": null,
             "id": 8013467,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T20:10:19Z",
+            "open_issues": 23,
             "owner": "materialsproject",
             "repo": "custodian",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -266,12 +436,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XenonPy is a Python Software for Materials Informatics",
+            "homepage": "http://xenonpy.readthedocs.io",
             "id": 117819602,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-15T21:14:48Z",
+            "open_issues": 25,
             "owner": "yoshida-lab",
             "repo": "XenonPy",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "machine-learning",
+              "material",
+              "material-development",
+              "python-library"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -282,12 +462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A suite of computational materials science tools.",
+            "homepage": "https://oqmd.org",
             "id": 18248720,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-29T01:33:54Z",
+            "open_issues": 23,
             "owner": "wolverton-research-group",
             "repo": "qmpy",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -298,12 +483,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Predict materials properties using only the composition information!",
+            "homepage": "https://doi.org/10.1038/s41524-021-00545-1",
             "id": 238569720,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-23T11:29:22Z",
+            "open_issues": 17,
             "owner": "anthony-wang",
             "repo": "CrabNet",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "attention",
+              "attention-mechanism",
+              "machine-learning",
+              "materials-informatics",
+              "materials-science",
+              "materials-screening",
+              "neural-networks",
+              "predict-materials-properties",
+              "pytorch",
+              "scikit-learn",
+              "self-attention",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -314,12 +517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAterials Simulation Toolkit for Machine Learning (MAST-ML)",
+            "homepage": null,
             "id": 82204883,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-10-10T20:15:45Z",
+            "open_issues": 32,
             "owner": "uw-cmg",
             "repo": "MAST-ML",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -330,12 +538,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Materials Knowledge System in Python",
+            "homepage": "https://pymks.readthedocs.io/",
             "id": 14182212,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-12T21:28:25Z",
+            "open_issues": 34,
             "owner": "materialsinnovation",
             "repo": "pymks",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "data-science",
+              "machine-learning",
+              "materials-science",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -346,12 +564,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NOMAD lets you manage and share your materials science data in a way that makes it truly useful to you, your group, and the community.",
+            "homepage": "https://nomad-lab.eu",
             "id": 339992217,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T20:13:20Z",
+            "open_issues": 34,
             "owner": "FAIRmat-NFDI",
             "repo": "nomad",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -362,12 +585,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MODNet: a framework for machine learning materials properties",
+            "homepage": null,
             "id": 247013904,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-05-02T11:38:28Z",
+            "open_issues": 39,
             "owner": "ppdebreuck",
             "repo": "modnet",
-            "stars": 112
+            "stars": 112,
+            "topics": [
+              "machine-learning",
+              "materials-science"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -378,12 +609,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for implementing and consuming OPTIMADE APIs in Python",
+            "homepage": "https://www.optimade.org/optimade-python-tools/",
             "id": 136234321,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:12:17Z",
+            "open_issues": 102,
             "owner": "Materials-Consortia",
             "repo": "optimade-python-tools",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "openapi",
+              "optimade",
+              "optimade-api",
+              "optimade-python",
+              "optimade-specification",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -394,12 +637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Wren sits on its Roost in the Aviary.",
+            "homepage": null,
             "id": 411272553,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-06T21:58:35Z",
+            "open_issues": 1,
             "owner": "CompRhys",
             "repo": "aviary",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -410,12 +658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent-based sequential learning software for materials discovery",
+            "homepage": null,
             "id": 179405241,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-07T21:17:09Z",
+            "open_issues": 12,
             "owner": "TRI-AMDD",
             "repo": "CAMD",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -426,12 +679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "http://crest-cassia.github.io/oacis/",
             "id": 13269212,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-08-17T15:12:01Z",
+            "open_issues": 11,
             "owner": "crest-cassia",
             "repo": "oacis",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -442,12 +700,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This library tackles the construction and efficient execution of computational chemistry workflows",
+            "homepage": null,
             "id": 60843590,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-01T08:21:42Z",
+            "open_issues": 4,
             "owner": "SCM-NV",
             "repo": "qmflows",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "automation",
+              "bioinformatics",
+              "chemistry",
+              "materials",
+              "python-3",
+              "quantum-mechanics",
+              "science",
+              "scientific-workflows"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -458,12 +730,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative materials benchmarking metrics, inspired by guacamol and CDVAE.",
+            "homepage": "https://matbench-genmetrics.readthedocs.io/",
             "id": 503990962,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-01T03:47:34Z",
+            "open_issues": 17,
             "owner": "sparks-baird",
             "repo": "matbench-genmetrics",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "materials-informatics",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -474,12 +754,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 97264231,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-25T18:09:17Z",
+            "open_issues": 3,
             "owner": "usnistgov",
             "repo": "MDCS",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -490,12 +775,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encode/decode a crystal structure to/from a grayscale PNG image for direct use with image-based machine learning models such as Palette.",
+            "homepage": "https://xtal2png.readthedocs.io/",
             "id": 494577970,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-04T00:53:43Z",
+            "open_issues": 29,
             "owner": "sparks-baird",
             "repo": "xtal2png",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "crystallography",
+              "image-processing",
+              "machine-learning",
+              "materials-informatics",
+              "materials-science",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -506,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Element Movers Distance for chemical composition similarity",
+            "homepage": null,
             "id": 283881086,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T13:07:11Z",
+            "open_issues": 0,
             "owner": "lrcfmd",
             "repo": "ElMD",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -522,12 +824,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚗️ matador is an aggregator, manipulator and runner of first-principles calculations, written with a bent towards battery 🔋 electrode materials.",
+            "homepage": "https://matador-db.readthedocs.io",
             "id": 177575200,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-11T21:51:10Z",
+            "open_issues": 46,
             "owner": "ml-evs",
             "repo": "matador",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "computational-chemistry",
+              "materials-science",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -538,12 +849,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grobid module for superconductor material and properties extraction",
+            "homepage": null,
             "id": 170627757,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T12:39:49Z",
+            "open_issues": 14,
             "owner": "lfoppiano",
             "repo": "grobid-superconductors",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "crf",
+              "grobid",
+              "machine-learning",
+              "physics",
+              "superconductors"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -554,12 +876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Software for evaluating pareto-optimal synthesis pathways",
+            "homepage": null,
             "id": 368957816,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-10T08:57:04Z",
+            "open_issues": 8,
             "owner": "TRI-AMDD",
             "repo": "piro",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -570,12 +897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sequential Learning App for Materials Discovery (\"SLAMD\") - Web Version",
+            "homepage": null,
             "id": 500817755,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-02T09:36:48Z",
+            "open_issues": 4,
             "owner": "BAMresearch",
             "repo": "WEBSLAMD",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -586,12 +918,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Materials informatics framework for ab initio data repositories",
+            "homepage": "https://db.tilde.pro",
             "id": 10036653,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-16T12:08:59Z",
+            "open_issues": 0,
             "owner": "tilde-lab",
             "repo": "tilde",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ab-initio",
+              "crystal-structure",
+              "crystallography",
+              "materials",
+              "materials-informatics",
+              "materials-science",
+              "quantum-espresso",
+              "vasp"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -602,12 +948,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The core of the SEAMM environment and graphical interface.",
+            "homepage": "https://molssi-seamm.github.io",
             "id": 118275828,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-12T02:01:41Z",
+            "open_issues": 0,
             "owner": "molssi-seamm",
             "repo": "seamm",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "computational-chemistry",
+              "computational-materials-science",
+              "molssi",
+              "molssi-seamm"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -618,12 +974,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use time-splits for Materials Project entries for generative modeling benchmarking.",
+            "homepage": "https://mp-time-split.readthedocs.io/",
             "id": 498948245,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-12T01:19:13Z",
+            "open_issues": 0,
             "owner": "sparks-baird",
             "repo": "mp-time-split",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "generative",
+              "materials-informatics",
+              "materials-project",
+              "materials-science",
+              "time-series-forecasting"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -634,12 +1001,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The High-Throughput Toolkit (httk) is a toolkit for preparing and running calculations, analyzing the results, and storing the results and outcome in a global and/or in a personalized database.",
+            "homepage": "http://httk.org/",
             "id": 43177070,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-10T14:19:34Z",
+            "open_issues": 36,
             "owner": "httk",
             "repo": "httk",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "computations",
+              "high-throughput",
+              "materials-science"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -650,12 +1026,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 475280638,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-20T06:06:54Z",
+            "open_issues": 1,
             "owner": "DeqiTang",
             "repo": "pymatflow",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -666,12 +1047,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Staging-area for automatically collected experimental data for the SuperCon database with a curation interface with enhanced-document viewer and curation-ready interface",
+            "homepage": "https://supercon2.readthedocs.io",
             "id": 429692077,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-01-16T00:13:43Z",
+            "open_issues": 29,
             "owner": "lfoppiano",
             "repo": "supercon2",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "feedback",
+              "grobid",
+              "superconductors",
+              "tdm",
+              "training",
+              "training-data"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         }
@@ -688,12 +1081,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elementary Multiperspective Material Ontology (EMMO)",
+            "homepage": "https://w3id.org/emmo/",
             "id": 189387204,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-28T22:46:55Z",
+            "open_issues": 66,
             "owner": "emmo-repo",
             "repo": "EMMO",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "applied-science",
+              "materials",
+              "modelling",
+              "ontology",
+              "top-level-ontology"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -704,12 +1108,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON schemas and examples representing structural data, characteristic properties, modeling workflows and related data about materials standardizing the diverse landscape of information",
+            "homepage": "https://mat3ra.github.io/esse/",
             "id": 63545175,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T04:39:19Z",
+            "open_issues": 20,
             "owner": "mat3ra",
             "repo": "esse",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "density-functional-theory",
+              "digital-transformation",
+              "machine-learning",
+              "materials",
+              "materials-design",
+              "materials-genome",
+              "materials-informatics",
+              "materials-science",
+              "simulation-modeling"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         }
@@ -726,12 +1145,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏆 A ranked list of awesome atomistic machine learning projects ⚛️🧬💎.",
+            "homepage": "https://go.fzj.de/baml",
             "id": 651692511,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-28T08:08:44Z",
+            "open_issues": 51,
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
-            "stars": 718
+            "stars": 718,
+            "topics": [
+              "ai4science",
+              "atomistic-machine-learning",
+              "awesome-list",
+              "best-of-list",
+              "computational-chemistry",
+              "computational-materials-science",
+              "condensed-matter",
+              "density-functional-theory",
+              "drug-discovery",
+              "electronic-structure",
+              "interatomic-potentials",
+              "materials-discovery",
+              "materials-informatics",
+              "molecular-dynamics",
+              "quantum-chemistry",
+              "scientific-computing",
+              "scientific-machine-learning",
+              "surrogate-models"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -742,12 +1185,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 29973576,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-16T19:32:57Z",
+            "open_issues": 5,
             "owner": "blaiszik",
             "repo": "Materials-Databases",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -758,12 +1206,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of known efforts in collecting and/or curating of chemical/materials data ",
+            "homepage": null,
             "id": 302427586,
             "language": null,
+            "license": "BSD-2-Clause",
             "last_commit": "2020-12-08T16:51:10Z",
+            "open_issues": 4,
             "owner": "neo-chem",
             "repo": "awesome-chemical-data",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "awesome-lists",
+              "chemistry",
+              "data",
+              "data-curation",
+              "data-schema",
+              "materials-science",
+              "ontology"
+            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         }
@@ -772,15 +1233,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:26:32.438Z",
+    "last_updated": "2026-08-29T04:40:42.982Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of known efforts in materials informatics, i.e. in modern materials science",
+      "homepage": null,
       "id": 121643986,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-24T10:49:03Z",
+      "open_issues": 5,
       "owner": "tilde-lab",
       "repo": "awesome-materials-informatics",
-      "stars": 528
+      "stars": 528,
+      "topics": [
+        "ab-initio",
+        "atomistic-simulations",
+        "awesome",
+        "awesome-list",
+        "chemistry",
+        "computational-materials",
+        "computational-materials-engineering",
+        "crystal-structure",
+        "crystallography",
+        "data-science",
+        "materials",
+        "materials-data",
+        "materials-design",
+        "materials-discoveries",
+        "materials-genome",
+        "materials-informatics",
+        "materials-platform",
+        "materials-science",
+        "phase-diagram",
+        "phase-diagrams"
+      ]
     },
     "original_repository_sha": "8c00f57017e71601ff600dc6927dcf68df7fddbb",
     "enhanced_repository": "enhansome/enhansome-materials-informatics",
