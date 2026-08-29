@@ -12,11 +12,12 @@
             "archived": false,
             "id": 10009991,
             "language": "HTML",
-            "last_commit": "2026-08-28T02:56:45Z",
+            "last_commit": "2026-08-28T07:20:52Z",
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3566
-          }
+            "stars": 3570
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-27T08:56:46Z",
             "owner": "materialsproject",
             "repo": "pymatgen",
-            "stars": 1945
-          }
+            "stars": 1946
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "hackingmaterials",
             "repo": "matminer",
             "stars": 613
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "aiidateam",
             "repo": "aiida-core",
             "stars": 579
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-05-20T12:57:45Z",
             "owner": "datamol-io",
             "repo": "datamol",
-            "stars": 545
-          }
+            "stars": 546
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "pyiron",
             "repo": "pyiron",
             "stars": 462
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -102,11 +108,12 @@
             "archived": false,
             "id": 7507548,
             "language": "Python",
-            "last_commit": "2026-08-11T17:06:26Z",
+            "last_commit": "2026-08-28T22:20:39Z",
             "owner": "materialsproject",
             "repo": "fireworks",
             "stars": 425
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 15514912,
             "language": "Python",
-            "last_commit": "2026-08-27T19:40:13Z",
+            "last_commit": "2026-08-28T16:13:20Z",
             "owner": "cclib",
             "repo": "cclib",
             "stars": 423
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -135,8 +143,9 @@
             "last_commit": "2024-08-14T04:59:20Z",
             "owner": "txie-93",
             "repo": "cdvae",
-            "stars": 377
-          }
+            "stars": 378
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "janosh",
             "repo": "pymatviz",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -162,11 +172,12 @@
             "archived": false,
             "id": 39508026,
             "language": "Python",
-            "last_commit": "2026-08-28T00:45:17Z",
+            "last_commit": "2026-08-28T17:54:57Z",
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -177,11 +188,12 @@
             "archived": false,
             "id": 439713489,
             "language": "Python",
-            "last_commit": "2026-08-24T21:35:48Z",
+            "last_commit": "2026-08-29T00:45:20Z",
             "owner": "Quantum-Accelerators",
             "repo": "quacc",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "hackingmaterials",
             "repo": "atomate",
             "stars": 263
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "materialsproject",
             "repo": "matbench",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -222,11 +236,12 @@
             "archived": false,
             "id": 98350025,
             "language": "Python",
-            "last_commit": "2026-08-18T16:46:18Z",
+            "last_commit": "2026-08-28T18:17:23Z",
             "owner": "materialsproject",
             "repo": "crystaltoolkit",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "materialsproject",
             "repo": "custodian",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "yoshida-lab",
             "repo": "XenonPy",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "wolverton-research-group",
             "repo": "qmpy",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "anthony-wang",
             "repo": "CrabNet",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "uw-cmg",
             "repo": "MAST-ML",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "materialsinnovation",
             "repo": "pymks",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "FAIRmat-NFDI",
             "repo": "nomad",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "ppdebreuck",
             "repo": "modnet",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "Materials-Consortia",
             "repo": "optimade-python-tools",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "CompRhys",
             "repo": "aviary",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "TRI-AMDD",
             "repo": "CAMD",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "crest-cassia",
             "repo": "oacis",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "SCM-NV",
             "repo": "qmflows",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "sparks-baird",
             "repo": "matbench-genmetrics",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "usnistgov",
             "repo": "MDCS",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -466,7 +496,8 @@
             "owner": "sparks-baird",
             "repo": "xtal2png",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -481,7 +512,8 @@
             "owner": "lrcfmd",
             "repo": "ElMD",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -496,7 +528,8 @@
             "owner": "ml-evs",
             "repo": "matador",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -511,7 +544,8 @@
             "owner": "lfoppiano",
             "repo": "grobid-superconductors",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -526,7 +560,8 @@
             "owner": "TRI-AMDD",
             "repo": "piro",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -541,7 +576,8 @@
             "owner": "BAMresearch",
             "repo": "WEBSLAMD",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -556,7 +592,8 @@
             "owner": "tilde-lab",
             "repo": "tilde",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -571,7 +608,8 @@
             "owner": "molssi-seamm",
             "repo": "seamm",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -586,7 +624,8 @@
             "owner": "sparks-baird",
             "repo": "mp-time-split",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -601,7 +640,8 @@
             "owner": "httk",
             "repo": "httk",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -616,7 +656,8 @@
             "owner": "DeqiTang",
             "repo": "pymatflow",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -631,7 +672,8 @@
             "owner": "lfoppiano",
             "repo": "supercon2",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         }
       ],
       "title": "Software and products"
@@ -648,11 +690,12 @@
             "archived": false,
             "id": 189387204,
             "language": "Python",
-            "last_commit": "2026-08-27T14:03:22Z",
+            "last_commit": "2026-08-28T22:46:55Z",
             "owner": "emmo-repo",
             "repo": "EMMO",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "mat3ra",
             "repo": "esse",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         }
       ],
       "title": "Standardization initiatives"
@@ -684,11 +728,12 @@
             "archived": false,
             "id": 651692511,
             "language": null,
-            "last_commit": "2026-08-28T02:08:26Z",
+            "last_commit": "2026-08-28T08:08:44Z",
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
-            "stars": 717
-          }
+            "stars": 718
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -703,7 +748,8 @@
             "owner": "blaiszik",
             "repo": "Materials-Databases",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         },
         {
           "node_type": "item",
@@ -718,14 +764,15 @@
             "owner": "neo-chem",
             "repo": "awesome-chemical-data",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
         }
       ],
       "title": "Similar compilations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:51:27.363Z",
+    "last_updated": "2026-08-29T02:26:32.438Z",
     "original_repository_info": {
       "archived": false,
       "id": 121643986,
