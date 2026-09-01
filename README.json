@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-31T15:11:20Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-01T15:00:04Z",
+            "open_issues": 74,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3572,
+            "stars": 3573,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -95,11 +95,11 @@
             "id": 77234579,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T18:17:47Z",
-            "open_issues": 680,
+            "last_commit": "2026-09-01T10:13:10Z",
+            "open_issues": 678,
             "owner": "aiidateam",
             "repo": "aiida-core",
-            "stars": 580,
+            "stars": 581,
             "topics": [
               "aiida",
               "computational-science",
@@ -181,6 +181,31 @@
         },
         {
           "node_type": "item",
+          "title": "cclib",
+          "description": "Parse and interpret the results of computational chemistry packages (Python).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Parsers and algorithms for computational chemistry logfiles",
+            "homepage": "https://cclib.github.io/",
+            "id": 15514912,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-30T21:55:53Z",
+            "open_issues": 193,
+            "owner": "cclib",
+            "repo": "cclib",
+            "stars": 425,
+            "topics": [
+              "computational-chemistry",
+              "python",
+              "quantum-chemistry"
+            ]
+          },
+          "first_seen": "2026-08-29T02:26:32.438Z"
+        },
+        {
+          "node_type": "item",
           "title": "FireWorks",
           "description": "Workflow engine developed at LBNL (Python).",
           "children": [],
@@ -197,31 +222,6 @@
             "repo": "fireworks",
             "stars": 425,
             "topics": []
-          },
-          "first_seen": "2026-08-29T02:26:32.438Z"
-        },
-        {
-          "node_type": "item",
-          "title": "cclib",
-          "description": "Parse and interpret the results of computational chemistry packages (Python).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parsers and algorithms for computational chemistry logfiles",
-            "homepage": "https://cclib.github.io/",
-            "id": 15514912,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2026-08-30T21:55:53Z",
-            "open_issues": 192,
-            "owner": "cclib",
-            "repo": "cclib",
-            "stars": 424,
-            "topics": [
-              "computational-chemistry",
-              "python",
-              "quantum-chemistry"
-            ]
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
         },
@@ -290,8 +290,8 @@
             "id": 39508026,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T22:30:41Z",
-            "open_issues": 163,
+            "last_commit": "2026-09-01T21:29:17Z",
+            "open_issues": 165,
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 294,
@@ -316,11 +316,11 @@
             "id": 439713489,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-31T23:17:44Z",
+            "last_commit": "2026-09-01T21:01:49Z",
             "open_issues": 19,
             "owner": "Quantum-Accelerators",
             "repo": "quacc",
-            "stars": 280,
+            "stars": 282,
             "topics": [
               "chemistry",
               "computational-materials-science",
@@ -614,8 +614,8 @@
             "id": 136234321,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-27T17:12:17Z",
-            "open_issues": 102,
+            "last_commit": "2026-09-01T21:34:09Z",
+            "open_issues": 103,
             "owner": "Materials-Consortia",
             "repo": "optimade-python-tools",
             "stars": 91,
@@ -829,8 +829,8 @@
             "id": 177575200,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-11T21:51:10Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-01T10:04:22Z",
+            "open_issues": 53,
             "owner": "ml-evs",
             "repo": "matador",
             "stars": 35,
@@ -1233,7 +1233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:20:39.862Z",
+    "last_updated": "2026-09-01T21:59:10.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of known efforts in materials informatics, i.e. in modern materials science",
@@ -1245,7 +1245,7 @@
       "open_issues": 5,
       "owner": "tilde-lab",
       "repo": "awesome-materials-informatics",
-      "stars": 528,
+      "stars": 530,
       "topics": [
         "ab-initio",
         "atomistic-simulations",
