@@ -16,10 +16,10 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-15T07:59:34Z",
-            "open_issues": 62,
+            "open_issues": 74,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3586,
+            "stars": 3589,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -45,7 +45,7 @@
             "open_issues": 128,
             "owner": "materialsproject",
             "repo": "pymatgen",
-            "stars": 1968,
+            "stars": 1969,
             "topics": [
               "materials",
               "materials-informatics",
@@ -95,8 +95,8 @@
             "id": 77234579,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T14:08:25Z",
-            "open_issues": 696,
+            "last_commit": "2026-09-16T15:28:03Z",
+            "open_issues": 701,
             "owner": "aiidateam",
             "repo": "aiida-core",
             "stars": 585,
@@ -131,7 +131,7 @@
             "open_issues": 3,
             "owner": "datamol-io",
             "repo": "datamol",
-            "stars": 550,
+            "stars": 551,
             "topics": [
               "cheminformatics",
               "drug-design",
@@ -191,7 +191,7 @@
             "id": 15514912,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-15T10:37:58Z",
+            "last_commit": "2026-09-16T17:01:18Z",
             "open_issues": 194,
             "owner": "cclib",
             "repo": "cclib",
@@ -217,10 +217,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T22:20:39Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "materialsproject",
             "repo": "fireworks",
-            "stars": 425,
+            "stars": 426,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
@@ -290,7 +290,7 @@
             "id": 39508026,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T18:08:40Z",
+            "last_commit": "2026-09-16T21:21:12Z",
             "open_issues": 165,
             "owner": "cctbx",
             "repo": "cctbx_project",
@@ -373,7 +373,7 @@
             "open_issues": 60,
             "owner": "materialsproject",
             "repo": "matbench",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "benchmark",
               "chemistry",
@@ -403,7 +403,7 @@
             "open_issues": 74,
             "owner": "materialsproject",
             "repo": "crystaltoolkit",
-            "stars": 203,
+            "stars": 204,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
@@ -421,10 +421,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-07T19:47:35Z",
-            "open_issues": 24,
+            "open_issues": 26,
             "owner": "materialsproject",
             "repo": "custodian",
-            "stars": 185,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
@@ -1113,7 +1113,7 @@
             "id": 63545175,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T06:40:04Z",
+            "last_commit": "2026-09-16T21:08:06Z",
             "open_issues": 23,
             "owner": "mat3ra",
             "repo": "esse",
@@ -1233,7 +1233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:25:30.236Z",
+    "last_updated": "2026-09-16T22:18:10.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of known efforts in materials informatics, i.e. in modern materials science",
