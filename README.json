@@ -16,10 +16,10 @@
             "language": "HTML",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-03T06:52:46Z",
-            "open_issues": 112,
+            "open_issues": 122,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3610,
+            "stars": 3613,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -45,7 +45,7 @@
             "open_issues": 132,
             "owner": "materialsproject",
             "repo": "pymatgen",
-            "stars": 1987,
+            "stars": 1988,
             "topics": [
               "materials",
               "materials-informatics",
@@ -95,11 +95,11 @@
             "id": 77234579,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T15:34:33Z",
-            "open_issues": 716,
+            "last_commit": "2026-10-09T15:42:15Z",
+            "open_issues": 725,
             "owner": "aiidateam",
             "repo": "aiida-core",
-            "stars": 593,
+            "stars": 594,
             "topics": [
               "aiida",
               "computational-science",
@@ -192,7 +192,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-07T22:30:28Z",
-            "open_issues": 200,
+            "open_issues": 201,
             "owner": "cclib",
             "repo": "cclib",
             "stars": 428,
@@ -290,8 +290,8 @@
             "id": 39508026,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T21:03:10Z",
-            "open_issues": 166,
+            "last_commit": "2026-10-09T22:39:36Z",
+            "open_issues": 167,
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 298,
@@ -320,7 +320,7 @@
             "open_issues": 17,
             "owner": "Quantum-Accelerators",
             "repo": "quacc",
-            "stars": 297,
+            "stars": 298,
             "topics": [
               "chemistry",
               "computational-materials-science",
@@ -403,7 +403,7 @@
             "open_issues": 76,
             "owner": "materialsproject",
             "repo": "crystaltoolkit",
-            "stars": 204,
+            "stars": 205,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:32.438Z"
@@ -420,8 +420,8 @@
             "id": 8013467,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-08T23:37:49Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-09T23:24:05Z",
+            "open_issues": 31,
             "owner": "materialsproject",
             "repo": "custodian",
             "stars": 188,
@@ -1154,7 +1154,7 @@
             "open_issues": 52,
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
-            "stars": 726,
+            "stars": 727,
             "topics": [
               "ai4science",
               "atomistic-machine-learning",
@@ -1233,7 +1233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:56:12.460Z",
+    "last_updated": "2026-10-09T23:27:45.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of known efforts in materials informatics, i.e. in modern materials science",
