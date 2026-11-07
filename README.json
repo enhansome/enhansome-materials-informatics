@@ -15,11 +15,11 @@
             "id": 10009991,
             "language": "HTML",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-06T12:11:22Z",
-            "open_issues": 111,
+            "last_commit": "2026-11-07T15:27:01Z",
+            "open_issues": 112,
             "owner": "rdkit",
             "repo": "rdkit",
-            "stars": 3671,
+            "stars": 3673,
             "topics": [
               "c-plus-plus",
               "cheminformatics",
@@ -45,7 +45,7 @@
             "open_issues": 156,
             "owner": "materialsproject",
             "repo": "pymatgen",
-            "stars": 2008,
+            "stars": 2007,
             "topics": [
               "materials",
               "materials-informatics",
@@ -290,8 +290,8 @@
             "id": 39508026,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T23:01:27Z",
-            "open_issues": 167,
+            "last_commit": "2026-11-07T21:20:48Z",
+            "open_issues": 166,
             "owner": "cctbx",
             "repo": "cctbx_project",
             "stars": 306,
@@ -1154,7 +1154,7 @@
             "open_issues": 51,
             "owner": "JuDFTteam",
             "repo": "best-of-atomistic-machine-learning",
-            "stars": 735,
+            "stars": 736,
             "topics": [
               "ai4science",
               "atomistic-machine-learning",
@@ -1233,7 +1233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:47:53.591Z",
+    "last_updated": "2026-11-07T22:57:42.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of known efforts in materials informatics, i.e. in modern materials science",
@@ -1245,7 +1245,7 @@
       "open_issues": 8,
       "owner": "tilde-lab",
       "repo": "awesome-materials-informatics",
-      "stars": 534,
+      "stars": 535,
       "topics": [
         "ab-initio",
         "atomistic-simulations",

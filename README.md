@@ -17,8 +17,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Software and products
 
-* [RDKit](https://github.com/rdkit/rdkit) ⭐ 3,671 | 🐛 111 | 🌐 HTML | 📅 2026-11-06 - A collection of cheminformatics and machine-learning software written in **C++** and **Python**. [![Github Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social)](https://github.com/rdkit/rdkit) ⭐ 3,671 | 🐛 111 | 🌐 HTML | 📅 2026-11-06
-* [Pymatgen](https://pymatgen.org) - A robust, open-source **Python** library for materials analysis. [![Github Stars](https://img.shields.io/github/stars/materialsproject/pymatgen?style=social)](https://github.com/materialsproject/pymatgen) ⭐ 2,008 | 🐛 156 | 🌐 Python | 📅 2026-11-06
+* [RDKit](https://github.com/rdkit/rdkit) ⭐ 3,673 | 🐛 112 | 🌐 HTML | 📅 2026-11-07 - A collection of cheminformatics and machine-learning software written in **C++** and **Python**. [![Github Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social)](https://github.com/rdkit/rdkit) ⭐ 3,673 | 🐛 112 | 🌐 HTML | 📅 2026-11-07
+* [Pymatgen](https://pymatgen.org) - A robust, open-source **Python** library for materials analysis. [![Github Stars](https://img.shields.io/github/stars/materialsproject/pymatgen?style=social)](https://github.com/materialsproject/pymatgen) ⭐ 2,007 | 🐛 156 | 🌐 Python | 📅 2026-11-06
 * [matminer](https://github.com/hackingmaterials/matminer) ⭐ 624 | 🐛 46 | 🌐 HTML | 📅 2026-11-02 - A library for data mining in materials science (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/matminer?style=social)](https://github.com/hackingmaterials/matminer) ⭐ 624 | 🐛 46 | 🌐 HTML | 📅 2026-11-02
 * [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**). [![Github Stars](https://img.shields.io/github/stars/aiidateam/aiida-core?style=social)](https://github.com/aiidateam/aiida-core) ⭐ 609 | 🐛 747 | 🌐 Python | 📅 2026-11-04
 * [datamol](https://github.com/datamol-org/datamol) ⭐ 557 | 🐛 4 | 🌐 Python | 📅 2026-09-09 - Molecular Manipulation Made Easy. A light wrapper built on top of RDKit (**Python**). [![Github Stars](https://img.shields.io/github/stars/datamol-org/datamol?style=social)](https://github.com/datamol-org/datamol) ⭐ 557 | 🐛 4 | 🌐 Python | 📅 2026-09-09
@@ -27,7 +27,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 * [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social)](https://github.com/materialsproject/fireworks) ⭐ 425 | 🐛 75 | 🌐 Python | 📅 2026-08-28
 * [CDVAE](https://github.com/txie-93/cdvae) ⭐ 381 | 🐛 50 | 🌐 Python | 📅 2024-08-14 - **Python** Crystal Diffusion Variational AutoEncoder (CDVAE) generates novel stable materials via inverse design. [![Github Stars](https://img.shields.io/github/stars/txie-93/cdvae?style=social)](https://github.com/txie-93/cdvae) ⭐ 381 | 🐛 50 | 🌐 Python | 📅 2024-08-14
 * [Pymatviz](https://github.com/janosh/pymatviz) ⭐ 340 | 🐛 0 | 🌐 Python | 📅 2026-11-01 - A toolkit for visualizations in materials informatics. [![Github Stars](https://img.shields.io/github/stars/janosh/pymatviz?style=social)](https://github.com/janosh/pymatviz) ⭐ 340 | 🐛 0 | 🌐 Python | 📅 2026-11-01
-* [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**). [![Github Stars](https://img.shields.io/github/stars/cctbx/cctbx_project?style=social)](https://github.com/cctbx/cctbx_project) ⭐ 306 | 🐛 167 | 🌐 Python | 📅 2026-11-06
+* [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**). [![Github Stars](https://img.shields.io/github/stars/cctbx/cctbx_project?style=social)](https://github.com/cctbx/cctbx_project) ⭐ 306 | 🐛 166 | 🌐 Python | 📅 2026-11-07
 * [quacc](https://github.com/arosen93/quacc) ⭐ 302 | 🐛 13 | 🌐 Python | 📅 2026-11-06 - **Python** platform for high-throughput, database-driven computational materials science and quantum chemistry [![Github Stars](https://img.shields.io/github/stars/arosen93/quacc?style=social)](https://github.com/arosen93/quacc) ⭐ 302 | 🐛 13 | 🌐 Python | 📅 2026-11-06
 * [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/atomate?style=social)](https://github.com/hackingmaterials/atomate) ⭐ 265 | 🐛 49 | 🌐 Python | 📅 2024-07-18
 * [matbench](https://github.com/materialsproject/matbench) ⭐ 224 | 🐛 34 | 🌐 Python | 📅 2026-11-04 - Matbench: Benchmarks for materials science property prediction (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/matbench?style=social)](https://github.com/materialsproject/matbench) ⭐ 224 | 🐛 34 | 🌐 Python | 📅 2026-11-04
@@ -50,7 +50,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 * [xtal2png](https://github.com/sparks-baird/xtal2png) ⭐ 39 | 🐛 29 | 🌐 Python | 📅 2023-10-04 - **Python** package for invertibly representing crystal structures as PNG images for screening state-of-the-art image-processing generative models. [![Github Stars](https://img.shields.io/github/stars/sparks-baird/xtal2png?style=social)](https://github.com/sparks-baird/xtal2png) ⭐ 39 | 🐛 29 | 🌐 Python | 📅 2023-10-04
 * [ElMD](https://github.com/lrcfmd/ElMD) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-08-20 - Quantify the chemical similarity between two compositions using the Element Movers Distance. [![Github Stars](https://img.shields.io/github/stars/lrcfmd/ElMD?style=social)](https://github.com/lrcfmd/ElMD/) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-08-20
 * [matador](https://github.com/ml-evs/matador) ⭐ 35 | 🐛 53 | 🌐 Python | 📅 2026-11-01 - A library for aggregation and analysis of high-throughput DFT (**Python**). [![Github Stars](https://img.shields.io/github/stars/ml-evs/matador?style=social)](https://github.com/ml-evs/matador) ⭐ 35 | 🐛 53 | 🌐 Python | 📅 2026-11-01
-* [Grobid superconductors](https://github.com/lfoppiano/grobid-superconductors) ⭐ 25 | 🐛 14 | 🌐 HTML | 📅 2026-09-02 - Open source [Grobid](https://github.com/kermitt2/grobid) ⭐ 5,221 | 🐛 300 | 🌐 Java | 📅 2026-11-06 module for extracting superconductor material and related properties
+* [Grobid superconductors](https://github.com/lfoppiano/grobid-superconductors) ⭐ 25 | 🐛 14 | 🌐 HTML | 📅 2026-09-02 - Open source [Grobid](https://github.com/kermitt2/grobid) ⭐ 5,221 | 🐛 300 | 🌐 Java | 📅 2026-11-07 module for extracting superconductor material and related properties
 * [piro](https://github.com/TRI-AMDD/piro) ⭐ 23 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2024-06-10 - Software for evaluating pareto-optimal synthesis pathways (**Python**). [![Github Stars](https://img.shields.io/github/stars/TRI-AMDD/piro?style=social)](https://github.com/TRI-AMDD/piro) ⭐ 23 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2024-06-10
 * [SLAMD](https://github.com/BAMresearch/WEBSLAMD) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2025-04-02 - An open source web app for data driven acceleration of cement and concrete development through digital lab twin and AI optimization (**Python/javascript**). [![Github Stars](https://img.shields.io/github/stars/BAMresearch/WEBSLAMD?style=social)](https://github.com/BAMresearch/WEBSLAMD) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2025-04-02
 * [tilde](https://github.com/tilde-lab/tilde) ⚠️ Archived - **Python** framework for ab initio data repositories. [![Github Stars](https://img.shields.io/github/stars/tilde-lab/tilde?style=social)](https://github.com/tilde-lab/tilde) ⚠️ Archived
@@ -154,7 +154,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Similar compilations
 
-* [Best of Atomistic Machine Learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) ⭐ 735 | 🐛 51 | 📅 2026-11-06 - curated list with 510+ atomistic projects
+* [Best of Atomistic Machine Learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) ⭐ 736 | 🐛 51 | 📅 2026-11-06 - curated list with 510+ atomistic projects
 * [Materials-Related Databases](https://github.com/blaiszik/Materials-Databases) ⚠️ Archived
 * [Experimental chemistry and materials science data](https://github.com/neo-chem/awesome-chemical-data) ⭐ 24 | 🐛 4 | 📅 2020-12-08
 * [atomistic.software](https://atomistic.software) - a collection of major atomistic simulation engines with citation info
@@ -168,4 +168,4 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
